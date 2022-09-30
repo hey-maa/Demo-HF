@@ -55,6 +55,16 @@
         "intrestOfWork": "Coding",
         "favouriteQuote": "Nothing is Impossible"
     },
+    
+    {
+
+        "id": "8",
+        "name": "Ayroti",
+        "yearOfGraduation": "2022",
+        "intrestOfWork": "learning new things",
+        "favouriteQuote": "Be strong and keep smiling"
+
+    },
 
     {
         "id": "20",
