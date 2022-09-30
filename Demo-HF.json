@@ -209,10 +209,7 @@
 
     },
 
-    
-  ]
-
-{
+    {
    
     "id" : "07",
     "name" : "Atharva",
@@ -221,6 +218,7 @@
     "favouriteQuote" : "Keep it going!!"
     
    },
+   
     {
    
     "id" : "2",
@@ -235,11 +233,7 @@
     
    }
    
-]
-        
-
-
-    {
+   {
         "id": "424",
         "Name": "Amitesh",
         "Year of Graduation": "2024",
