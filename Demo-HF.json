@@ -19,6 +19,14 @@
         "intrestOfWork": " ",
         "favouriteQuote": " "
     },
+      
+    {
+        "id" : "100",
+        "Name" : "sanket",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "web devlopment",
+        "favorite Quote" : "code the world"
+     },
 
     {
 
