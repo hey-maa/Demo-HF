@@ -273,6 +273,13 @@
         "yearOfGraduation": "2024",
         "interestOfWork": "Content Writing, Web development",
         "favouriteQuote": "Keep it going!!"
+    },
+    {
+        "id" : "144",
+        "Name" : "Kapil Motwani",
+        "Year of Graduation" : "2023",
+        "Intrest of work" : "Web Application Development",
+        "favorite Quote" : "Never Stop Dreaming"
     }
 
 ]
