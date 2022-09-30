@@ -287,6 +287,13 @@
         "Year of Graduation" : "2024",
         "Intrest of work" : "Machine Learning and Data Science",
         "favorite Quote" : "If you change nothing, nothing will change"
-     }
+    },
+    {    
+        "id" : "04"
+        "Name" : "Hema"
+        "Year of Graduation" : 2025
+        "Interest of work" : "web development"
+        "favorite Quote" : "No feeling is final"
+     },
 
 ]
