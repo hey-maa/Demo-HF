@@ -280,6 +280,13 @@
         "Year of Graduation" : "2023",
         "Intrest of work" : "Web Application Development",
         "favorite Quote" : "Never Stop Dreaming"
-    }
+    },
+    {
+        "id" : "18",
+        "Name" : "Soham",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Machine Learning and Data Science",
+        "favorite Quote" : "If you change nothing, nothing will change"
+     }
 
 ]
